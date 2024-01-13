@@ -1,0 +1,13 @@
+.card-container {
+  height: fit-content;
+  width: min(300px, 70%);
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 30px;
+  padding: 15px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.card-img {
+  width: 100%;
+  border-radius: 10px;
+}
